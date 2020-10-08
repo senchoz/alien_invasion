@@ -21,6 +21,7 @@ class AlienInvasion:
                     sys.exit()
 
             # Redraw the screen on each loop cycle
+            # and fill it with the set color
             self.screen.fill(self.bg_color)
 
             # Shows the last frame
