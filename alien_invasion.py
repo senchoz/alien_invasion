@@ -1,5 +1,9 @@
+#!/usr/bin/python3
+
 import sys
 import pygame
+
+from settings import Settings
 
 class AlienInvasion:
     """A class for managing game resources and behavior."""
